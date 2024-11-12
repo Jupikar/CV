@@ -59,7 +59,7 @@ filaire et hertzien (pilotage à distance de chauffage et de volets roulant) Ins
 
 Lecture et utilisation de documentation technique
 
-<br>
+
 
 ## Diplômes et Formations
 
