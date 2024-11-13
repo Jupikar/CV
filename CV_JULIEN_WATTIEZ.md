@@ -31,7 +31,7 @@ Compréhension de texte
 ## Centres d'intérêt
 
 - Nouvelles technologies
-- Sports extrêmes, [Kitesurf](https://github.com/Jupikar/CV/blob/826cfc136c9382d8a5ed9b031f3cf5365ae959c8/kitesurf-trickclinic-171242_800x.webp)
+- Sports extrêmes, [!Kitesurf](https://github.com/Jupikar/CV/blob/826cfc136c9382d8a5ed9b031f3cf5365ae959c8/kitesurf-trickclinic-171242_800x.webp)
 
 
 
